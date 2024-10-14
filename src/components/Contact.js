@@ -18,11 +18,11 @@ const Contact = () => {
             <p>We understand the importance of communication and are committed to providing you with excellent service. Here are the best ways to contact our team:</p>
 
             <h3>Email Us</h3>
-            <p>For inquiries, support, or feedback, email us anytime at <Link to="/FlowerStore/contact">contact@sisterflora.com</Link>. We aim to respond to all emails within 24 hours.</p>
+            <p>For inquiries, support, or feedback, email us anytime at <Link to="/contact">contact@sisterflora.com</Link>. We aim to respond to all emails within 24 hours.</p>
 
             <h3>Give Us a Call</h3>
             <p>
-              Prefer to speak with someone directly? You can reach our customer service team by phone at <Link to="/FlowerStore/contact">(123) 456-7890</Link>. 
+              Prefer to speak with someone directly? You can reach our customer service team by phone at <Link to="/contact">(123) 456-7890</Link>. 
               Our phone lines are open from 9 AM to 5 PM, Monday through Friday.
             </p>
 
@@ -35,9 +35,9 @@ const Contact = () => {
             <h3>Follow Us</h3>
             <p>Stay updated with the latest news, offers, and floral tips by following us on social media. Find us on:
               <ul>
-                <li><Link to="/FlowerStore/contact">Facebook</Link></li>
-                <li><Link to="/FlowerStore/contact">Instagram</Link></li>
-                <li><Link to="/FlowerStore/contact">Twitter</Link></li>
+                <li><Link to="/contact">Facebook</Link></li>
+                <li><Link to="/contact">Instagram</Link></li>
+                <li><Link to="/contact">Twitter</Link></li>
               </ul>
             </p>
           </div>

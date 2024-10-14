@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/FlowerStore/static/css/main.9c599c38.css",
-    "main.js": "/FlowerStore/static/js/main.48bc5940.js",
+    "main.js": "/FlowerStore/static/js/main.9e79e788.js",
     "static/media/background.jpg": "/FlowerStore/static/media/background.c91c2c68f13089538572.jpg",
     "static/media/sunflower.png": "/FlowerStore/static/media/sunflower.636de8deee8ed19e9699.png",
     "static/media/daffodil.png": "/FlowerStore/static/media/daffodil.23b0ed942d20a9d0fc01.png",
@@ -16,10 +16,10 @@
     "static/media/lily.jpg": "/FlowerStore/static/media/lily.675e6b6501fe2213cd5b.jpg",
     "index.html": "/FlowerStore/index.html",
     "main.9c599c38.css.map": "/FlowerStore/static/css/main.9c599c38.css.map",
-    "main.48bc5940.js.map": "/FlowerStore/static/js/main.48bc5940.js.map"
+    "main.9e79e788.js.map": "/FlowerStore/static/js/main.9e79e788.js.map"
   },
   "entrypoints": [
     "static/css/main.9c599c38.css",
-    "static/js/main.48bc5940.js"
+    "static/js/main.9e79e788.js"
   ]
 }

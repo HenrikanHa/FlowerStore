@@ -1,0 +1,27 @@
+.hero {
+    text-align: center;
+    background-image: url('../assets/background.jpg');
+    background-size: cover;
+    background-position: center;
+    min-height: 100vh;
+}
+
+.home-page h1 {
+    color: #880e4f;
+    font-size: 48px;
+    margin-bottom: 8px;
+}
+
+.home-page p {
+    margin-bottom: 16px;
+}
+
+.btn-order {
+    background-color: #ad1457;
+    color: white;
+    padding: 12px 32px;
+    border: none;
+    border-radius: 30px;
+    font-weight: bold;
+    text-transform: uppercase;
+}

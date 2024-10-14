@@ -1,0 +1,33 @@
+.about-page .container {
+    max-width: 1200px;
+    margin: auto;
+    padding: 40px;
+    font-family: sans-serif;
+    background: #fff;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+.about-page h1 {
+    color: #880e4f;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.about-page h2 {
+    color: #333;
+    margin-top: 40px;
+    padding-bottom: 10px;
+    border-bottom: 3px solid #880e4f;
+    position: relative;
+}
+
+.about-page p, li {
+    color: #666;
+    font-size: 18px;
+    line-height: 1.8;
+}
+
+.about-page ul {
+    padding-left: 20px;
+    list-style-type: none;
+}
